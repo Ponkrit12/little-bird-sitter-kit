@@ -1,0 +1,13 @@
+# Source materials — kept out of the website repository on purpose.
+# The printable PDFs are the paid product and must never be published.
+
+*.pdf
+READ_ME_FIRST.txt
+ETSY_LISTING_READY.txt
+Preview_01_Cover.jpg
+Preview_02_Inside_Pages.jpg
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
